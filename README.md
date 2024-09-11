@@ -15,4 +15,6 @@ Welcome to my profile😎.
 - ⚡ Fun fact: I am a cricket lover🏏.
 
 
-
+<h1 align="center">
+  Technology Stack🧑‍💻
+</h1>
