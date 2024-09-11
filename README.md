@@ -59,5 +59,8 @@ Welcome to my profile😎.
 		</tr>
 	</table>
 </div>
-
+<h1 align="center">
+My Github Stats😉
+</h1>
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya7077&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya7077&layout=donut)](https://github.com/Soumya7077/github-readme-stats)
