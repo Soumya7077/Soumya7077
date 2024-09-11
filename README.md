@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
- <img src="[image-url-here](https://raw.githubusercontent.com/Soumya7077/Soumya7077/main/Frame.png)" />
+ <img src="https://raw.githubusercontent.com/Soumya7077/Soumya7077/main/Frame.png" />
 </h1>
 
 ## Hi there 👋
