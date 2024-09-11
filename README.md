@@ -62,4 +62,4 @@ Welcome to my profile😎.
 <h1 align="center">
 My Github Stats😉
 </h1>
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya7077&show_icons=true&theme=radical)
+![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soumya7077&show_icons=true&theme=transparent)
